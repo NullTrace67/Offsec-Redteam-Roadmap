@@ -309,3 +309,8 @@ Most people quit because they underestimate the discipline required. This field 
 If you use this roadmap as a guide — not a checklist — and take responsibility for depth, consistency, and honest self-assessment, you will be on the correct path.
 
 Everything else is noise.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
